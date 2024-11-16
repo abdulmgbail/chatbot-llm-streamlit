@@ -58,4 +58,10 @@ This project is a **Chat Application** built using **LLM3**, **Langchain**, and 
 4. **Python function**:
    Write a python code to intialization and take user prompt and select model we want to chat.
 
+
+https://github.com/user-attachments/assets/a5674ded-a854-4771-9091-cfdfdcf84919
+
+
 5.** Run the Application**:
+
+
