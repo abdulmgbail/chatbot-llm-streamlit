@@ -1,2 +1,3 @@
-# Chat-Bot-LLM
-Chat bot - llm -langchain-streamlit
+# chatbot-llm-streamlit
+
+Chat bot created using llm, langchain, streamlit
